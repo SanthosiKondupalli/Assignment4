@@ -9,4 +9,4 @@ problem6:https://youtu.be/E_N2nEZVj70
 problem7:https://youtu.be/jxOkTui9BD8
 problem8:https://youtu.be/E0Nn_QaWJbc
 problem9:https://youtu.be/cZHwas3Udtw
-problem10:
+problem10:https://youtu.be/gXI0_ASmzDI
